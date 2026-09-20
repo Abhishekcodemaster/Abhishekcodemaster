@@ -100,20 +100,26 @@ Git & GitHub        ████████████████░░░░
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekcodemaster)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
 
-> ⚠️ **Replace the links above** with your real Email, LinkedIn & Twitter — just edit this README!
+💬 **Best way to reach me:** connect on GitHub or open an issue on any of my repos!
+
+<!--
+  🔗 Jab real links mil jayein, unhe yaha add kar dena (ye comment profile pe nahi dikhega):
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME-HERE)
+
+-->
 
 </div>
 
 ---
 
-### 🐍 Contribution Graph
+### 📈 Contribution Chart
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekcodemaster&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/36BCF7/Abhishekcodemaster" alt="Abhishek's Contribution Chart" />
 </div>
 
 ---
